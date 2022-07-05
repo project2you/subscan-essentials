@@ -45,7 +45,7 @@ Developers are free to use the codebase to extend functionalities and develop un
 * Golang 1.12.4+
 * Redis 3.0.4+
 * MySQL 5.6+
-* Node 8.9.0+
+* Node 12+
 
 ### Init 
 sudo apt remove cmdtest
